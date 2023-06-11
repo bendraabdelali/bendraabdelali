@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm BENDRA Abdelali</h1>
-<h3 align="center">A data enthusiast</h3>
+<h3 align="center"> Devops Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bendraabdelali&label=Profile%20views&color=0e75b6&style=flat" alt="bendraabdelali" /> </p>
-
-- 🌱 I’m currently learning **Devops Engineer**
 
 - 📫 How to reach me **abdelalibendra1@gmail.com**
 
